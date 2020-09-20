@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dog_race_s_Nw", "dog_race_s_Nw\dog_race_s_Nw.csproj", "{5C19E6BB-71F5-4C09-80B1-AB54A682A47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dog_race_s_NwTests", "dog_race_s_NwTests\dog_race_s_NwTests.csproj", "{FE9E4926-A505-4164-9627-AACFD04D7A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C19E6BB-71F5-4C09-80B1-AB54A682A47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C19E6BB-71F5-4C09-80B1-AB54A682A47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C19E6BB-71F5-4C09-80B1-AB54A682A47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C19E6BB-71F5-4C09-80B1-AB54A682A47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9E4926-A505-4164-9627-AACFD04D7A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9E4926-A505-4164-9627-AACFD04D7A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9E4926-A505-4164-9627-AACFD04D7A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9E4926-A505-4164-9627-AACFD04D7A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9D7E953-BAC2-41AF-8240-9BDDE52EFE47}
+	EndGlobalSection
+EndGlobal
